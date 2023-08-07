@@ -21,7 +21,7 @@ public class cinemabookingApplication {
             }
         } while (true);
 
-        final CinemaBooking Cine = new CinemaBooking(asientos);
+        final CinemaBooking Cine = new CinemaBooking(asientos); //XD
         boolean salir = false;
 
         do {
